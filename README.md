@@ -1,11 +1,18 @@
 # 👨‍💻 Jonas Moreira
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor FullStack`**
 
-Olá, me chamo Jonas Moreira Barbosa, tenho 22 anos e sou natural de Itacoatiara - Amazonas. Atualmente, estou cursando Sistemas de Informação na UFAM. Sou apaixonado por tecnologia e compartilho um pouco dos meus projetos pelo meu Instagram, com o perfil chamado "[dev.jonas_](https://www.instagram.com/dev.jonas_)".
+Olá, me chamo Jonas Moreira Barbosa, tenho 22 anos e sou natural de Itacoatiara - Amazonas. Atualmente, estou cursando Sistemas de Informação na UFAM. Sou apaixonado por tecnologia e instusiasta da Robótica, compartilho um pouco dos meus projetos pelo meu Instagram, com o perfil chamado "[dev.jonas_](https://www.instagram.com/dev.jonas_)".
 
 ---
 <p align="left">
+    <a href="https://www.linkedin.com/in/jonas-moreira28/">
+            <img 
+                alt="Linkedin" 
+                title="Linkedin" 
+                src="https://custom-icon-badges.demolab.com/github/stars/JonasMoreira56?color=236ad3&style=for-the-badge&labelColor=236ad3&logo=linkedin&label=Linkedin"
+            />
+        </a>
     <a href="https://github.com/JonasMoreira56?tab=stars">
         <img 
             alt="Total de estrelas" 
@@ -84,7 +91,46 @@ Olá, me chamo Jonas Moreira Barbosa, tenho 22 anos e sou natural de Itacoatiara
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="android" 
+    title="android"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Gazebo" 
+    title="Gazebo"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gazebo/gazebo-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="ROS" 
+    title="ROS2"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="mysql" 
+    title="mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+<img 
+    align="left" 
+    alt="firebase" 
+    title="mysfirebaseql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg"
+/>
 <br/>
 <br/>
 
